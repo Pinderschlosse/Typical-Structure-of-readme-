@@ -20,7 +20,7 @@ More methods on its way.
 
 ### *Installation*
 
-<pre style="background-color: #dbdeff"><strong>Notice:</strong> If you already have installed Xsolla Login Javascript SDK, please go to section <strong>Usage</strong></pre>
+<pre style="background-color: #63beff"><strong>Notice:</strong> If you already have installed Xsolla Login Javascript SDK, please go to section <strong>Usage</strong></pre>
 
 Connect Xsolla Login Javascript SDK:
 
