@@ -38,7 +38,7 @@ Connect Xsolla Login Javascript SDK:
 ## Usage
 
 
-### Step 1
+***Step 1***
 
 
 Add the widget initialization code to the ```<body>``` tag.
@@ -57,7 +57,7 @@ XL.init({
 `projectId`|Login ID from Publisher Account. Required.
 `callbackUrl`|URL to redirect the user to after authentication. Must be identical to Callback URLspecified in Publisher Account in Login settings. Required if there are several Callback URLs.
 
-### Step 2
+***Step 2***
 
 Select the way of placing the widget on the website:
 
