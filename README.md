@@ -38,7 +38,7 @@ Connect Xsolla Login Javascript SDK:
 ## Usage
 
 
-<l style="font-size: 12"><strong>Step 1</strong></l>
+<p style="font-size: 18"><strong>Step 1</strong></p>
 
 
 Add the widget initialization code to the ```<body>``` tag.
