@@ -64,7 +64,7 @@ Select the way of placing the widget on the website:
 + fullscreen mode
 + particular block of the page
 
-***FULLSCREEN MODE***
+##### ***FULLSCREEN MODE***
 
 Add the button with an on-click event to your website and call the `XL.show()` function.
 
@@ -75,7 +75,7 @@ Add the button with an on-click event to your website and call the `XL.show()` f
 The fullscreen mode will be closed upon clicking outside the widget.
 
 
-***BLOCK OF THE PAGE***
+##### ***BLOCK OF THE PAGE***
 
 Add the block, in which the widget will be placed, to the `<body>` tag of this page and specify the block ID.
 
